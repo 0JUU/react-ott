@@ -4,7 +4,7 @@ import "./Nav.css";
 export default function Nav() {
 
     const [show, setShow] = useState(false);
-
+    // scroll 시 네비게이션 배경색 변경
     useEffect(() => {
         window.addEventListener("scroll", () => {
             if(window.scrollY > 50) {
