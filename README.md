@@ -1,3 +1,2 @@
 ## Netflix Clone Coding
-React, css
-The Moviedb API, Axios, Styled Component
+React, CSS, The Moviedb API, Axios, Styled Component
