@@ -1,1 +1,3 @@
-moviedb를 활용한 ott 클론코딩
+## Netflix Clone Coding
+React, css
+The Moviedb API, Axios, Styled Component
