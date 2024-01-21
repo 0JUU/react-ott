@@ -3,7 +3,7 @@
     object-fit: contain;
     height: 448px;
 }
-@media (min-width : 1500px) {
+@media (min-width : 2000px) {
     .banner {
         position : relative;
         height: 600px;
